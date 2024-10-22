@@ -1,0 +1,3 @@
+[submodule "contrib/pg_bulkload"]
+	path = contrib/pg_bulkload
+	url = git@github.com:glimmer-godman/glm-bulkload.git
